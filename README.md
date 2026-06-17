@@ -87,3 +87,7 @@ Postman Delete:
 
 Resultado final:
 <img width="1872" height="877" alt="image" src="https://github.com/user-attachments/assets/5e7ec82d-d081-48de-bf01-6f446dd5f93d" />
+
+
+Frontend:
+<img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/60391aba-3508-4f10-b5fe-9ad2cfa8cdce" />
