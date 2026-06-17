@@ -51,6 +51,6 @@ Haniel Sousa
 - Postman
 
 ## GitHub
+(https://github.com/hanielsouza-collab/Fit-Api.git)
 
-Adicionar link do repositório aqui.
-
+Prints:
